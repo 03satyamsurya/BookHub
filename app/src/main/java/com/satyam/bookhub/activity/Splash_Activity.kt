@@ -1,9 +1,10 @@
-package com.satyam.bookhub
+package com.satyam.bookhub.activity
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.os.Handler
+import com.satyam.bookhub.R
 
 class Splash_Activity : AppCompatActivity() {
 
