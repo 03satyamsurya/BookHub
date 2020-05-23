@@ -12,10 +12,9 @@ class Home_Activity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_home_)
     }
-
+   //for menu code
     override fun onCreateOptionsMenu(menu: Menu?): Boolean {
         menuInflater.inflate(R.menu.example_menu, menu)
 
-                return true
-    }
+                return true }
 }
